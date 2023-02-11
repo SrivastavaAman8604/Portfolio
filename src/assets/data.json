@@ -1,0 +1,41 @@
+{
+    "projects": [
+      {
+        "date": "17/1/2023",
+        "title": "EdTECH",
+        "description": "This is the Educational website for childrens and parents who want bright future of their child . For more details visit the link below",
+        "url": "https://ed-techwebsite.vercel.app/#home",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      },
+  
+      {
+        "date": "22/1/2023",
+        "title": "iTube",
+        "description": "This is the Education based video streaming app that helps people to learn new skills around the worlds.For more details visit the link below",
+        "url": "https://i-tube-jet.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+      {
+        "date": "27/1/2023",
+        "title": "CryptoMaster",
+        "description": "This is the Crypto currency app through which you can find all the details about exchanges and crypto coins It is built using context API. For more details visit the link below",
+        "url": "https://crypto-master-nine.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+      {
+        "date": "2/2/2023",
+        "title": "QuoteGenerator",
+        "description": "This is the simple Quote Generator built using context API. For more details visit the link below",
+        "url": "https://quote-generator-ebon.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2015/09/05/07/58/clipboards-924044__340.jpg"
+      },
+      {
+        "date": "7/2/2023",
+        "title": "PORTFOLIO",
+        "description": "This is the sample description about the project details. For more details visit the link below",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
