@@ -56,6 +56,12 @@
         // height:100vh;
         padding: 8rem;
         background-color: $color1;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        .card {
+          font: 20px 1rem $text1;
+          width: 100%;
+        }
     }    
   
     #contact > section > form {
@@ -168,7 +174,8 @@
     #about{
         width: 100%;
         // height:100vh;
-        padding: 8rem;
+        padding-top: 3rem;
+        font: 12px 1rem;
         background-color: $color1;
     }   
   
